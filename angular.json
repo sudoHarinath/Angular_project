@@ -39,6 +39,8 @@
               }
             ],
             "styles": [
+              "/Users/harinathreddy/Documents/angular_project/myapp/node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "/Users/harinathreddy/Documents/angular_project/myapp/node_modules/font-awesome/css/font-awesome.min.css",
               "src/styles.scss"
             ],
             "scripts": [],
